@@ -4,7 +4,7 @@ Install and configure at on your system.
 
 |GitHub|GitLab|Quality|Downloads|Version|Issues|Pull Requests|
 |------|------|-------|---------|-------|------|-------------|
-|[![github](https://github.com/buluma/ansible-role-at/workflows/Ansible%20Molecule/badge.svg)](https://github.com/buluma/ansible-role-at/actions)|[![gitlab](https://gitlab.com/buluma/ansible-role-at/badges/master/pipeline.svg)](https://gitlab.com/buluma/ansible-role-at)|[![quality](https://img.shields.io/ansible/quality/)](https://galaxy.ansible.com/buluma/at)|[![downloads](https://img.shields.io/ansible/role/d/)](https://galaxy.ansible.com/buluma/at)|[![Version](https://img.shields.io/github/release/buluma/ansible-role-at.svg)](https://github.com/buluma/ansible-role-at/releases/)|[![Issues](https://img.shields.io/github/issues/buluma/ansible-role-at.svg)](https://github.com/buluma/ansible-role-at/issues/)|[![PullRequests](https://img.shields.io/github/issues-pr-closed-raw/buluma/ansible-role-at.svg)](https://github.com/buluma/ansible-role-at/pulls/)|
+|[![github](https://github.com/buluma/ansible-role-at/workflows/Ansible%20Molecule/badge.svg)](https://github.com/buluma/ansible-role-at/actions)|[![gitlab](https://gitlab.com/buluma/ansible-role-at/badges/master/pipeline.svg)](https://gitlab.com/buluma/ansible-role-at)|[![quality](https://img.shields.io/ansible/quality/59039)](https://galaxy.ansible.com/buluma/at)|[![downloads](https://img.shields.io/ansible/role/d/59039)](https://galaxy.ansible.com/buluma/at)|[![Version](https://img.shields.io/github/release/buluma/ansible-role-at.svg)](https://github.com/buluma/ansible-role-at/releases/)|[![Issues](https://img.shields.io/github/issues/buluma/ansible-role-at.svg)](https://github.com/buluma/ansible-role-at/issues/)|[![PullRequests](https://img.shields.io/github/issues-pr-closed-raw/buluma/ansible-role-at.svg)](https://github.com/buluma/ansible-role-at/pulls/)|
 
 ## [Example Playbook](#example-playbook)
 
@@ -44,7 +44,7 @@ The following roles are used to prepare a system. You can prepare your system in
 
 | Requirement | GitHub | GitLab |
 |-------------|--------|--------|
-|[buluma.bootstrap](https://galaxy.ansible.com/buluma/buluma.bootstrap)|[![Build Status GitHub](https://github.com/buluma/buluma.bootstrap/workflows/Ansible%20Molecule/badge.svg)](https://github.com/buluma/buluma.bootstrap/actions)|[![Build Status GitLab ](https://gitlab.com/buluma/buluma.bootstrap/badges/master/pipeline.svg)](https://gitlab.com/buluma/buluma.bootstrap)|
+|[buluma.bootstrap](https://galaxy.ansible.com/buluma/bootstrap)|[![Build Status GitHub](https://github.com/buluma/ansible-role-bootstrap/workflows/Ansible%20Molecule/badge.svg)](https://github.com/buluma/ansible-role-bootstrap/actions)|[![Build Status GitLab ](https://gitlab.com/buluma/ansible-role-bootstrap/badges/main/pipeline.svg)](https://gitlab.com/buluma/ansible-role-bootstrap)|
 
 ## [Context](#context)
 
