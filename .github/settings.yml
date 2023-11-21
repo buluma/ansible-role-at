@@ -5,4 +5,4 @@
 repository:
   description: Install and configure at on your system.
   homepage: https://buluma.github.io/
-  topics: at, atd, atq, batch, scheduling, system, ansible, molecule, tox, playbook, hacktoberfest
+  topics: at, atd, atq, batch, scheduling, system, ansible, molecule, tox, playbook
