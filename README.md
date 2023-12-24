@@ -2,9 +2,9 @@
 
 Install and configure at on your system.
 
-|GitHub|Version|Issues|Pull Requests|
-|------|-------|------|-------------|
-|[![github](https://github.com/buluma/ansible-role-at/actions/workflows/molecule.yml/badge.svg)](https://github.com/buluma/ansible-role-at/actions/workflows/molecule.yml)|[![Version](https://img.shields.io/github/release/buluma/ansible-role-at.svg)](https://github.com/buluma/ansible-role-at/releases/)|[![Issues](https://img.shields.io/github/issues/buluma/ansible-role-at.svg)](https://github.com/buluma/ansible-role-at/issues/)|[![PullRequests](https://img.shields.io/github/issues-pr-closed-raw/buluma/ansible-role-at.svg)](https://github.com/buluma/ansible-role-at/pulls/)|
+|GitHub|Version|Issues|Pull Requests|Downloads|
+|------|-------|------|-------------|---------|
+|[![github](https://github.com/buluma/ansible-role-at/actions/workflows/molecule.yml/badge.svg)](https://github.com/buluma/ansible-role-at/actions/workflows/molecule.yml)|[![Version](https://img.shields.io/github/release/buluma/ansible-role-at.svg)](https://github.com/buluma/ansible-role-at/releases/)|[![Issues](https://img.shields.io/github/issues/buluma/ansible-role-at.svg)](https://github.com/buluma/ansible-role-at/issues/)|[![PullRequests](https://img.shields.io/github/issues-pr-closed-raw/buluma/ansible-role-at.svg)](https://github.com/buluma/ansible-role-at/pulls/)|![Ansible Role](https://img.shields.io/ansible/role/d/buluma/at)|
 
 ## [Example Playbook](#example-playbook)
 
