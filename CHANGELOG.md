@@ -1,11 +1,12 @@
 # Changelog
 
-## [Unreleased](https://github.com/buluma/ansible-role-at/tree/HEAD)
+## [24.2.26](https://github.com/buluma/ansible-role-at/tree/24.2.26) (2024-02-19)
 
-[Full Changelog](https://github.com/buluma/ansible-role-at/compare/0.3.0...HEAD)
+[Full Changelog](https://github.com/buluma/ansible-role-at/compare/0.3.0...24.2.26)
 
 **Merged pull requests:**
 
+- Bump release-drafter/release-drafter from 5 to 6 [\#11](https://github.com/buluma/ansible-role-at/pull/11) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump release-drafter/release-drafter from 5 to 6 [\#10](https://github.com/buluma/ansible-role-at/pull/10) ([dependabot[bot]](https://github.com/apps/dependabot))
 
 ## [0.3.0](https://github.com/buluma/ansible-role-at/tree/0.3.0) (2024-01-20)
