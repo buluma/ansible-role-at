@@ -1,8 +1,8 @@
 # Changelog
 
-## [Unreleased](https://github.com/buluma/ansible-role-at/tree/HEAD)
+## [24.3.31](https://github.com/buluma/ansible-role-at/tree/24.3.31) (2024-03-29)
 
-[Full Changelog](https://github.com/buluma/ansible-role-at/compare/24.2.26...HEAD)
+[Full Changelog](https://github.com/buluma/ansible-role-at/compare/24.2.26...24.3.31)
 
 **Merged pull requests:**
 
