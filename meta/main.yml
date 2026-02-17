@@ -6,32 +6,32 @@ galaxy_info:
   company: ShadowNet
   min_ansible_version: '2.12'
   platforms:
-  - name: Alpine
-    versions:
-    - all
-  - name: Amazon
-    versions:
-    - all
-  - name: EL
-    versions:
-    - all
-  - name: Debian
-    versions:
-    - all
-  - name: Fedora
-    versions:
-    - all
-  - name: opensuse
-    versions:
-    - all
-  - name: Ubuntu
-    versions:
-    - all
+    - name: Alpine
+      versions:
+        - all
+    - name: Amazon
+      versions:
+        - all
+    - name: EL
+      versions:
+        - all
+    - name: Debian
+      versions:
+        - all
+    - name: Fedora
+      versions:
+        - all
+    - name: opensuse
+      versions:
+        - all
+    - name: Ubuntu
+      versions:
+        - all
   galaxy_tags:
-  - at
-  - atd
-  - atq
-  - batch
-  - scheduling
-  - system
+    - at
+    - atd
+    - atq
+    - batch
+    - scheduling
+    - system
 dependencies: []
