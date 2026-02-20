@@ -2,21 +2,20 @@
 galaxy_info:
   author: buluma
   role_name: at
-  description: Install and configure at on your system.
+  description: "Install and configure at on your system."
   license: Apache-2.0
   company: ShadowNet
   min_ansible_version: "2.12"
-
   platforms:
     - name: Alpine
       versions:
         - all
     - name: Amazon
       versions:
-        - Candidate
+        - all
     - name: EL
       versions:
-        - "8"
+        - all
     - name: Debian
       versions:
         - all
@@ -29,7 +28,6 @@ galaxy_info:
     - name: Ubuntu
       versions:
         - all
-
   galaxy_tags:
     - at
     - atd
@@ -37,5 +35,4 @@ galaxy_info:
     - batch
     - scheduling
     - system
-
 dependencies: []
