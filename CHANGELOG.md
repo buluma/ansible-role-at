@@ -6,6 +6,7 @@
 
 **Merged pull requests:**
 
+- Bump docker/setup-buildx-action from 3 to 4 [\#18](https://github.com/buluma/ansible-role-at/pull/18) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump actions/checkout from 4 to 6 [\#17](https://github.com/buluma/ansible-role-at/pull/17) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump buluma/dependabot-auto-merge-action from 2.1.2 to 2.1.3 [\#16](https://github.com/buluma/ansible-role-at/pull/16) ([dependabot[bot]](https://github.com/apps/dependabot))
 
